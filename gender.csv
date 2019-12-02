@@ -1,0 +1,28 @@
+,,,score predictions
+j01a,female,diff,y
+j01b,male,,
+j02a,male,diff,?
+j02b,female,,y(more successful)
+j03a,female,same,y(more successful)
+j03b,female,,
+j04a,female,same,
+j04b,female,same,y(did worse)
+j05a,female,diff,thinks they tied but they did better b/c of higher lead (70-77 in g1 and 78-70 in g2)
+j05b,male,,thinkts they did worse
+j06a,male,diff,y(more successful in g2)
+j06b,female,,thinks they were higher (were in g1 and lower by 1 pt in g2)
+j07a,female,same,y(more successful in g2)
+j07b,female,,
+j08a,female,same,y(more successful)
+j08b,female,,y
+,,,
+s01,male,,
+s02,male,,
+s03,female,,
+s04,male,,
+s05,male,,
+s06,male,,
+s07,female,,
+s08,female,,
+s09,female,,
+s10,male,,
